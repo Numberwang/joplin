@@ -552,12 +552,12 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-server.js:43
 #, javascript-format
 msgid "Server is running on port %d"
-msgstr ""
+msgstr "Servern körs på port"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-server.js:43
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-server.js:46
 msgid "Server is not running."
-msgstr ""
+msgstr "Servern är inte startad"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-set.js:22
 #, javascript-format
@@ -784,7 +784,7 @@ msgstr "Om Joplin"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:658
 msgid "Preferences..."
-msgstr ""
+msgstr "Inställningar"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:668
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1010
@@ -794,7 +794,7 @@ msgstr "Sök efter uppdateringar..."
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:682
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:742
 msgid "Templates"
-msgstr ""
+msgstr "Mallar"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:689
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:747
@@ -826,7 +826,7 @@ msgstr "Avsluta"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:735
 msgid "Close Window"
-msgstr ""
+msgstr "Stäng Fönster"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:773
 #, fuzzy
@@ -911,7 +911,7 @@ msgstr "Växla sidofältet"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:927
 msgid "Layout button sequence"
-msgstr ""
+msgstr "Knapp layout"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:931
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:470
@@ -1031,7 +1031,7 @@ msgstr "Nej"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/checkForUpdates.js:151
 msgid "Full Release Notes"
-msgstr ""
+msgstr "Versions anteckningar, alla"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ClipperConfigScreen.min.js:39
 msgid "Token has been copied to the clipboard!"
@@ -1119,7 +1119,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:82
 msgid "This will open a new screen. Save your current changes?"
-msgstr ""
+msgstr "Detta öppnar nytt fönster. Spara dina förändringar?"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:139
 #, javascript-format
@@ -1152,6 +1152,8 @@ msgid ""
 "The Joplin Nextcloud App is either not installed or misconfigured. Please "
 "see the full error message below:"
 msgstr ""
+"Joplin Nextcloud applikationen är inte installerad eller felkonfigurerad. "
+"Se hela felmeddelandet här:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:206
 #, fuzzy
@@ -1160,7 +1162,7 @@ msgstr "Visa alla"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:219
 msgid "Joplin Nextcloud App status:"
-msgstr ""
+msgstr "Joplin Nextcloud App status:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:233
 #, fuzzy
@@ -1324,15 +1326,15 @@ msgstr "Kryptering är:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ExtensionBadge.min.js:10
 msgid "Firefox Extension"
-msgstr ""
+msgstr "Firefox tillägg"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ExtensionBadge.min.js:17
 msgid "Chrome Web Store"
-msgstr ""
+msgstr "Chrome Web Store"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ExtensionBadge.min.js:44
 msgid "Get it now:"
-msgstr ""
+msgstr "Installera nu:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/Header.min.js:210
 msgid "Usage"
@@ -1376,7 +1378,7 @@ msgstr "Ställ in alarm:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:326
 msgid "Template file:"
-msgstr ""
+msgstr "Mall fil"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:479
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/action-button.js:69
@@ -1455,7 +1457,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NotePropertiesDialog.min.js:312
 msgid "Previous versions of this note"
-msgstr ""
+msgstr "Tidigare versioner av denna anteckning"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NotePropertiesDialog.min.js:389
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:1749
@@ -1465,7 +1467,7 @@ msgstr "Anteckningens egenskaper"
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteRevisionViewer.min.js:75
 #, javascript-format
 msgid "The note \"%s\" has been successfully restored to the notebook \"%s\"."
-msgstr ""
+msgstr "Anteckningen \"%s\" lyckades läsas tillbaka till anteckningsboken \"%s\"."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteRevisionViewer.min.js:100
 #, fuzzy
@@ -1480,7 +1482,7 @@ msgstr "Länk eller meddelande stöds inte: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteRevisionViewer.min.js:178
 msgid "Restore"
-msgstr ""
+msgstr "Återställ"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteRevisionViewer.min.js:179
 #, javascript-format
@@ -1488,6 +1490,8 @@ msgid ""
 "Click \"%s\" to restore the note. It will be copied in the notebook named "
 "\"%s\". The current version of the note will not be replaced or modified."
 msgstr ""
+"Tryck \"%s\" för att läsa tillbaka anteckningen. Den kommer att kopieras till anteckningsbok "
+"\"%s\". Den nuvarande versionen av anteckningen kommer att ersättas eller uppdateras."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:774
 msgid "Open..."
@@ -1512,7 +1516,7 @@ msgstr "Kopiera länkadress"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:829
 msgid "There was an error downloading this attachment:"
-msgstr ""
+msgstr "Ett problem uppstod vid hämtande av bilaga:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:831
 #, fuzzy
@@ -1655,6 +1659,7 @@ msgstr[1] "Token har kopierats till urklipp!"
 msgid ""
 "Note: When a note is shared, it will no longer be encrypted on the server."
 msgstr ""
+"Obs: när en anteckning delas kommer den inte att vara krypterad på servern längre."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ShareNoteDialog.js:175
 #, fuzzy
@@ -1670,11 +1675,11 @@ msgstr[1] "Dela"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ShareNoteDialog.js:180
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/SideBar.min.js:280
 msgid "Remove"
-msgstr ""
+msgstr "Flytta"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/SideBar.min.js:283
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/side-menu-content.js:146
@@ -1740,7 +1745,7 @@ msgstr "Välj vart synkroniseringstillståndet ska exporteras till"
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/StatusScreen.min.js:87
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/status.js:106
 msgid "Retry"
-msgstr ""
+msgstr "Försök igen"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/utils/NoteListUtils.js:27
 msgid "Add or remove tags"
